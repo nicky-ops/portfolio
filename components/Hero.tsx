@@ -1,5 +1,6 @@
 import React from 'react'
 import { Spotlight } from './ui/spotlight'
+import { TextGenerateEffect } from './ui/TextGenerateEffect'
 
 const Hero = () => {
   return (
@@ -20,6 +21,11 @@ const Hero = () => {
                 <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
                     Dynamic Web Magic with Django
                 </h2>
+
+                <TextGenerateEffect 
+                  className=""
+                  words="Transforming Concepts into Seamless Experiences"
+                />
 
             </div>
 
