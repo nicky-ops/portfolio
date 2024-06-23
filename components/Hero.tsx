@@ -1,6 +1,7 @@
 import React from 'react'
 import { Spotlight } from './ui/spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
+import MagicButton from './ui/MagicButton'
 
 const Hero = () => {
   return (
@@ -22,12 +23,21 @@ const Hero = () => {
                     Dynamic Web Magic with Django
                 </h2>
 
-                <TextGenerateEffect 
-                  className="text-center text-[40px] md:text-5xl lg:text-6xl"
-                  words="Transforming Concepts into Seamless Experiences"
+                <TextGenerateEffect
+                words="Transforming Concepts into Seamless User Experiences"
+                className="text-center text-[40px] md:text-5xl lg:text-6xl"
                 />
+
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
                   Hi, I&apos;m Nick, a Django developer based in Kenya.
+                </p>
+
+                <p>
+                  <a href="#about">
+                    <MagicButton
+                      title="Show my work"
+                      />
+                  </a>
                 </p>
 
             </div>
