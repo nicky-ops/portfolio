@@ -25,5 +25,5 @@
 	c0,6.2-3.8,10.1-9.8,10.1c-5.9,0-9.6-3.7-9.6-9.7C99,52.7,102.8,48.8,108.8,48.8z M108.7,63.8c2.3,0,3.6-1.9,3.6-5.2
 	c0-3.2-1.3-5.2-3.6-5.2s-3.7,1.9-3.7,5.2C105.1,62,106.4,63.8,108.7,63.8z"/>
 <text transform="matrix(1 0 0 1 13.1957 37.9468)" class="st1 st2 st3">python</text>
-<text transform="matrix(0.8994 0 0 1 16.7373 57.2643)" class="st4 st5 st6">django</text>
+<text transform="matrix(0.8994 0 0 1 16.7373 57.2643)" class="st4 st5 st6">Redis</text>
 </svg>
