@@ -176,13 +176,13 @@ export const workExperience = [
   {
     id: 1,
     title: "Freelance software developer",
-    desc: "",
+    desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Lorem, ipsum dolor sit amet consectetur.",
     desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
