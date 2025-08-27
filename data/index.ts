@@ -175,7 +175,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Engineer - Techloom Solutions",
+    title: "Backend Engineer - Techloom Solutions",
     desc: "Building RESTful APIs using FastAPI",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
