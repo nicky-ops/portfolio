@@ -80,11 +80,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Bookmarklet",
+    title: "Pixmark",
     des: "Bookmark images from other websites using a javascript bookmarklet",
     img: "/bookmarks.png",
     iconLists: ["/django.svg", "/python.svg", "/js.svg", "/redis.svg", "/css.svg", "/html.svg"],
-    link: "https://github.com/nicky-ops/django_practice/tree/main/bookmarks",
+    link: "https://pixmark.kiprutonick.work/",
   },
   {
     id: 3,
@@ -175,29 +175,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Freelance software developer",
-    desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Software Engineer - Techloom Solutions",
+    desc: "Building RESTful APIs using FastAPI",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Lorem, ipsum dolor sit amet consectetur.",
-    desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Backend Developer - ARXERN",
+    desc: "Design, built and deployed AI solution using FastAPI as the backbone",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Lorem, ipsum dolor sit",
-    desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Software Engineer Intern - ARED Group",
+    desc: "Optimized computer vision model YOLOv8 for Edge device",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lorem, ipsum dolor sit amet",
-    desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "IT Support Engineer",
+    desc: "Provided technical support to clients and staff.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
